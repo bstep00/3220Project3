@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSCE 3220 Project 3</string>
+
+    <string name="main_image">Selected picture</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+</resources>
